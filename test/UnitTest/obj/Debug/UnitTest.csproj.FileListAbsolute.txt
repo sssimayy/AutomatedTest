@@ -1,0 +1,65 @@
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/driver.config
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/UnitTest.dll
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/UnitTest.pdb
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/nunit.framework.dll
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/Sqa.Util.Driver.dll
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/WebDriver.dll
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/WebDriver.Support.dll
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/Newtonsoft.Json.dll
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/Sqa.Util.Driver.pdb
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/Sqa.Util.Driver.dll.config
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/WebDriver.xml
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/WebDriver.Support.xml
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/nunit.framework.pdb
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/nunit.framework.xml
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/bin/Debug/Newtonsoft.Json.xml
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/obj/Debug/UnitTest.csprojResolveAssemblyReference.cache
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/obj/Debug/UnitTest.csproj.CoreCompileInputs.cache
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/obj/Debug/UnitTest.dll
+/Users/uguroney/Projects/CSharpWorkplace/AutomatedTester/test/UnitTest/obj/Debug/UnitTest.pdb
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\driver.config
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\Sqa.Util.Driver.dll
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\WebDriver.dll
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\WebDriver.Support.dll
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\Sqa.Util.Driver.pdb
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\Sqa.Util.Driver.dll.config
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\WebDriver.xml
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\WebDriver.Support.xml
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\nunit.framework.pdb
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\kadermst\Desktop\AutomatedTester\test\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\driver.config
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\Sqa.Util.Driver.dll
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\WebDriver.dll
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\Sqa.Util.Driver.pdb
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\Sqa.Util.Driver.dll.config
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\WebDriver.xml
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\nunit.framework.pdb
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\Damla Ünal\Desktop\AutomatedTester\test\UnitTest\bin\Debug\EntityFramework.SqlServer.xml
